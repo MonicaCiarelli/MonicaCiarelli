@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho com Analise de Dados
 - 🌱 Estudando Ciência de Dados
-- 📫 Email para contato: monicamciarelli@hotmail.com
 - ⚡ Curiosidade: ❤️ Jogos e RPG.
 <div align="center">
   <a href="https://github.com/MonicaCiarelli">
