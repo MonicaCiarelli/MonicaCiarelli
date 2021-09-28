@@ -7,8 +7,8 @@
 - ⚡ Curiosidade: ❤️ Jogos e RPG.
 <div align="center">
   <a href="https://github.com/MonicaCiarelli">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MonicaCiarelli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaCiarelli&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MonicaCiarelli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaCiarelli&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Moni-Excel" height="30" width="40" src="https://user-images.githubusercontent.com/91426768/135007617-6e07b888-4be7-4169-b3e6-5909c8630e1b.png" />
@@ -21,3 +21,5 @@
   
   ##
   
+![Snake animation](https://github.com/MonicaCiarelli/MonicaCiarelli/blob/output/github-contribution-grid-snake.svg)
+ 
